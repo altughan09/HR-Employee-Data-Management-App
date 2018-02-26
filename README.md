@@ -3,7 +3,7 @@ Java SE, Collections, I/O, iText Library, PDF output
 
 ** EMPLOYEE DATA MANAGEMENT **
 
-1- Create New Employee Account with name, position and salary and store data in an ArrayList.
+1- Create New Employee Account with name, position and salary and store its data in an ArrayList.
 
 2- Employee ID is automatically assigned to every employee in ascending order
 
